@@ -16,6 +16,8 @@ int print(int a)
 		printf("\n");
 	}
 }
+
+
 int main(void)
 {
 	int a;
