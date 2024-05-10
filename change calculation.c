@@ -53,6 +53,6 @@ int main(void)
 	int number;
 	printf("enter the price :");
 	scanf("%d", &number);
-	printf("minimum change = %d\n", smallest(number));
+	printf("minimum change number = %d\n", smallest(number));
 	return 0;
 }
