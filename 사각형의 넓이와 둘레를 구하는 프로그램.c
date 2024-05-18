@@ -26,7 +26,7 @@ int main(void)
 	h = abs(r.p2.y - r.p1.y);
 	
 	area = w * h;
-	peri = 2 * w + 2 * y;
+	peri = 2 * w + 2 * h;
 	
 	printf("사각형 넓이는 %d 이고, 둘레는 %d 입니다.", area, peri);
 	
